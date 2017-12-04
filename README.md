@@ -1,7 +1,10 @@
 #### 接入微软的在线翻译　Microsoft Azure，智能语音转文字。
 [先注册官网](https://portal.azure.com)
+
 [官方接入文档](http://docs.microsofttranslator.com/speech-translate.html)
+
 [官方的github链接](https://github.com/MicrosoftTranslator)
+
 [我的简书链接](http://www.jianshu.com/p/6bf88f86e0e0)
 
 ##### 官方的接入需求如下：
