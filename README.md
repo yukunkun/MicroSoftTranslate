@@ -6,6 +6,7 @@
 [官方的github链接](https://github.com/MicrosoftTranslator)
 
 [我的简书链接](http://www.jianshu.com/p/6bf88f86e0e0)
+![上图直观](https://upload-images.jianshu.io/upload_images/3001453-ca32743f35b75ffa.jpg)
 
 ##### 官方的接入需求如下：
        
