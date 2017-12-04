@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.cxria.microtranslate.MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start audio"
+        android:onClick="start"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <Button android:layout_width="match_parent"
+            android:text="play"
+            android:onClick="play"
+            android:layout_height="wrap_content"/>
+
+
+    <TextView android:layout_width="match_parent"
+              android:layout_marginTop="10dp"
+              android:id="@+id/tv_content"
+              android:gravity="center"
+              android:text=""
+              android:textSize="18sp"
+              android:layout_height="wrap_content"/>
+</LinearLayout>
