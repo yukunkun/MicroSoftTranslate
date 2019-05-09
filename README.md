@@ -10,7 +10,7 @@
 ![上图直观](https://upload-images.jianshu.io/upload_images/3001453-ca32743f35b75ffa.jpg)
 
 
-~~好像已经过时了*_*~~
+~~好像已经过时了，官方可能更新了接入方法*_*~~
 ##### 官方的接入需求如下：
        
         Implementation Notes
